@@ -1,0 +1,26 @@
+.detail-container {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  border: 2px solid #4d5d5f;
+  gap: 32px;
+  padding: 32px;
+  width: 30vw;
+  padding: 16px;
+  text-align: center;
+  margin-top: 2rem;
+  margin-left: 30rem;
+}
+
+.detail-container img {
+  width: 400px;
+  border-radius: 12px;
+}
+
+.detail-info {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  max-width: 400px;
+}

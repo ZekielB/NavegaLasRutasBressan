@@ -1,0 +1,15 @@
+views/
+ ├── HomeView.jsx        ← TODOS los productos
+ ├── CategoryView.jsx    ← telefonia / robotica
+ ├── ContactView.jsx     ← Contacto
+components/
+ ├── ItemListContainer.jsx
+ ├── NavBar.jsx
+ ├── ProductCard.jsx
+ ├── ProductDetail.jsx
+data/
+ └── productos.js
+ 
+
+
+//ayuda creada por IA
